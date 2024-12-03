@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en" class="">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Tailwind CSS mit Dark-Mode</title>
+    <!-- <script src="https://cdn.tailwindcss.com"></script> -->
+    <link rel="stylesheet" href="./css/index.css" />
+  </head>
+  <body class="bg-gray-100 dark:bg-gray-900 text-gray-900 dark:text-gray-100">
+    <div
+      class="container mx-auto my-10 bg-gray-100 dark:bg-gray-900 text-gray-900 dark:text-gray-100"
+    >
+      <div
+        id="colorSwitch"
+        class="inline-block hover:cursor-pointer bg-gray-900 text-gray-100 dark:bg-gray-100 dark:text-gray-900 rounded-full p-2 my-5"
+      >
+        <img
+          src="./img/line-md--moon-to-sunny-outline-loop-transition.svg"
+          alt="moon"
+          class="w-8 h-auto"
+        />
+      </div>
+      <h1 class="font-mono text-2xl pb-4">
+        Tailwind CSS mit Light- und Dark-Mode
+      </h1>
+      <p class="font-mono text-lg">
+        Um den Modus "Light" bzw. "Dark" zu ändern, muss nab nur das obige
+        Symbol anklicken. Der jeweilige Zustand wird dann im "Local Storage" des
+        Browsers gespeichert.
+      </p>
+    </div>
+    <script src="./js/index.js"></script>
+  </body>
+</html>

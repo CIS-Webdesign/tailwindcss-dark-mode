@@ -1,0 +1,18 @@
+{
+  "name": "tailwindcss-dark-mode",
+  "version": "1.0.0",
+  "main": "index.html",
+  "scripts": {
+    "dev": "npx tailwindcss -i ./src/tailwind.css -o ./css/index.css"
+  },
+  "keywords": [
+    "tailwindcss",
+    "darkmode"
+  ],
+  "author": "Günther Hörandl",
+  "license": "MIT",
+  "description": "",
+  "devDependencies": {
+    "tailwindcss": "^3.4.15"
+  }
+}
