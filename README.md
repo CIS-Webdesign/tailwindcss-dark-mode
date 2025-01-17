@@ -2,7 +2,7 @@
 
 Das ist eine einfache HTML Seite mit Tailwind-CSS und einem Button zum Umschalten vom Light- in den Dark-Modus - und umgekehrt.
 
-[DEMO](http://www.hoerandl.com/github/tailwindcss-dark-mode/)
+[DEMO](https://demos.hoerandl.com/tailwindcss-dark-mode/)
 
 ## Credits
 
