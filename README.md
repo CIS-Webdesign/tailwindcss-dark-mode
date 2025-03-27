@@ -4,7 +4,7 @@ Das ist eine einfache HTML Seite mit Tailwind-CSS und einem Button zum Umschalte
 
 [DEMO](https://demos.hoerandl.com/tailwindcss-dark-mode/)
 
-## Credits
+## Creditsss
 
 - [Tailwind CSS](https://tailwindcss.com/)
 - [Icon Sun](https://icon-sets.iconify.design/line-md/moon-to-sunny-outline-loop-transition/)
